@@ -1,2 +1,2 @@
 
-# T_Calc is a terminal based calculator written in Go
+# This is a Repository Of Programs written In Go
