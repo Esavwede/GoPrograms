@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	arithmetic "github.com/Esavwede/GoPrograms.git/src/program2_arithmetic"
+	conditionals "github.com/Esavwede/GoPrograms.git/src/program3_conditionals"
 )
 
 func main() {
@@ -11,5 +11,6 @@ func main() {
 
 	// Datatypes Program
 	//program1.Datatypes()
-	arithmetic.ProgramTwoArithmetic()
+	//arithmetic.ProgramTwoArithmetic()
+	conditionals.Program3Conditionals()
 }
